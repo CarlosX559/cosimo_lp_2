@@ -1,0 +1,30 @@
+<svg width="205" height="196" viewBox="0 0 205 196" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_i_154_13)">
+<circle cx="98" cy="94" r="94" fill="#002140" fill-opacity="0.31"/>
+</g>
+<g filter="url(#filter1_d_154_13)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M178.583 102.17C177.244 102.965 176.362 104.344 176.132 105.884C170.394 144.435 137.153 174.009 97.0043 174.009C52.8191 174.009 17 138.189 17 94.0043C17 49.8191 52.8191 14 97.0043 14C137.037 14 170.203 43.4034 176.082 81.792C176.324 83.3687 177.249 84.771 178.641 85.5514L185.447 89.3693C188.804 91.2523 188.864 96.0632 185.555 98.0289L178.583 102.17Z" fill="#FFFCFF"/>
+</g>
+<defs>
+<filter id="filter0_i_154_13" x="4" y="-2" width="188" height="190" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-2"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_154_13"/>
+</filter>
+<filter id="filter1_d_154_13" x="0" y="1" width="205.001" height="194.009" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="8.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.82 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_154_13"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_154_13" result="shape"/>
+</filter>
+</defs>
+</svg>
